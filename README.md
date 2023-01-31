@@ -22,7 +22,7 @@ Page is live on GitHub pages: [https://mdwag316.github.io/Module-6-Challenge-Wea
 
 ![Mod 5 Preview](https://github.com/Mdwag316/Module-6-Challenge-Weather_Dashboard/blob/main/assets/images/1.png)
 
-## Technologies Use
+## Technologies Used
 
 - Bootstrap
 - jQuery
