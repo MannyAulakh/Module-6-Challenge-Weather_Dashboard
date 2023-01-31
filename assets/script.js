@@ -1,5 +1,5 @@
 //---------------KEY--------------------
-url = "http://api.openweathermap.org/data/2.5/forecast?q="
+url = "https://api.openweathermap.org/data/2.5/forecast?q="
 city = ""
 api = "&units=metric&appid=90c7892b985f2416c7bfa8f7089dad23"
 
